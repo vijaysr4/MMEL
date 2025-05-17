@@ -1,0 +1,287 @@
+{
+  "builder_name": "webdataset",
+  "citation": "",
+  "config_name": "all_wikidata_items",
+  "dataset_name": "vel_commons_wikidata",
+  "dataset_size": 39242121939,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/00.tar": {
+      "num_bytes": 1439631360,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/01.tar": {
+      "num_bytes": 1423964160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/02.tar": {
+      "num_bytes": 1391267840,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/03.tar": {
+      "num_bytes": 1394012160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/04.tar": {
+      "num_bytes": 1426524160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/05.tar": {
+      "num_bytes": 1439610880,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/06.tar": {
+      "num_bytes": 1424640000,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/07.tar": {
+      "num_bytes": 1391472640,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/08.tar": {
+      "num_bytes": 1394391040,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/09.tar": {
+      "num_bytes": 1430640640,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/10.tar": {
+      "num_bytes": 1433466880,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/11.tar": {
+      "num_bytes": 1424087040,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/12.tar": {
+      "num_bytes": 1389301760,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/13.tar": {
+      "num_bytes": 1388052480,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/14.tar": {
+      "num_bytes": 1428490240,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/15.tar": {
+      "num_bytes": 1436303360,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/16.tar": {
+      "num_bytes": 1419868160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/17.tar": {
+      "num_bytes": 1387079680,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/18.tar": {
+      "num_bytes": 1393489920,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/19.tar": {
+      "num_bytes": 1429596160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/20.tar": {
+      "num_bytes": 1431777280,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/21.tar": {
+      "num_bytes": 1419417600,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/22.tar": {
+      "num_bytes": 1383546880,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/23.tar": {
+      "num_bytes": 1393254400,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/24.tar": {
+      "num_bytes": 1431296000,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/25.tar": {
+      "num_bytes": 1426053120,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/26.tar": {
+      "num_bytes": 1415383040,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/27.tar": {
+      "num_bytes": 1384437760,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/28.tar": {
+      "num_bytes": 1389475840,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/29.tar": {
+      "num_bytes": 1426135040,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/30.tar": {
+      "num_bytes": 1430947840,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/31.tar": {
+      "num_bytes": 1416509440,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/32.tar": {
+      "num_bytes": 1380751360,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/33.tar": {
+      "num_bytes": 1392128000,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/34.tar": {
+      "num_bytes": 1439344640,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/35.tar": {
+      "num_bytes": 1415905280,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/36.tar": {
+      "num_bytes": 1418557440,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/37.tar": {
+      "num_bytes": 1381406720,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/38.tar": {
+      "num_bytes": 1389916160,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/39.tar": {
+      "num_bytes": 1443870720,
+      "checksum": null
+    },
+    "hf://datasets/aiintelligentsystems/vel_commons_wikidata@bd137a09a91e945e7a38c5856ef225baf0aa2c97/all_wikidata_items/40.tar": {
+      "num_bytes": 216432640,
+      "checksum": null
+    }
+  },
+  "download_size": 56712437760,
+  "features": {
+    "predicted_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "predicted_description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "qid": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 95954559699,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 39242121939,
+      "num_examples": 2251498,
+      "shard_lengths": [
+        30200,
+        31000,
+        29500,
+        29600,
+        27400,
+        27300,
+        28400,
+        26600,
+        38900,
+        20300,
+        30100,
+        31100,
+        29300,
+        29900,
+        27300,
+        27400,
+        28500,
+        26500,
+        38900,
+        20900,
+        29900,
+        30500,
+        29500,
+        29600,
+        26900,
+        27600,
+        28000,
+        26100,
+        39000,
+        20500,
+        29900,
+        30900,
+        28800,
+        29700,
+        28600,
+        26300,
+        39400,
+        20200,
+        29400,
+        30800,
+        28700,
+        29800,
+        26500,
+        27100,
+        28700,
+        26100,
+        39100,
+        20700,
+        28800,
+        30600,
+        28300,
+        29600,
+        26500,
+        27300,
+        28700,
+        25600,
+        38900,
+        20300,
+        29800,
+        30800,
+        28600,
+        29500,
+        26500,
+        26800,
+        28400,
+        26500,
+        39100,
+        21600,
+        27800,
+        30600,
+        28600,
+        29700,
+        26100,
+        27100,
+        28200,
+        26400,
+        38600,
+        22200,
+        6598
+      ],
+      "dataset_name": "vel_commons_wikidata"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

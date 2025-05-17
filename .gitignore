@@ -1,0 +1,15 @@
+# Dataset
+Data/MAGE:
+
+# LLAVA
+LLaVA
+
+# Finetuning
+fine_tune_models/wandb
+
+# Output
+output
+
+# Flash attention
+flash_attn_cu12.whl
+
